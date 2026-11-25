@@ -1,0 +1,11 @@
+export { default as About } from './About';
+export { default as Blog } from './Blog';
+export { default as BlogPost } from './BlogPost';
+export { default as Contact } from './Contact';
+export { default as FAQ } from './FAQ';
+export { default as Home } from './Home';
+export { default as Legal } from './Legal';
+export { default as NotFound } from './NotFound';
+export { default as Portfolio } from './Portfolio';
+export { default as ServiceDetail } from './ServiceDetail';
+export { default as Services } from './Services';

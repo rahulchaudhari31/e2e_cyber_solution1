@@ -1,0 +1,310 @@
+{
+  "redirects": [
+    {
+      "source": "/about.php",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/about.php/",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/analytics-or-growth-marketing.php",
+      "destination": "/analytics-or-growth-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/analytics-or-growth-marketing.php/",
+      "destination": "/analytics-or-growth-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/branding.php",
+      "destination": "/branding",
+      "permanent": true
+    },
+    {
+      "source": "/branding.php/",
+      "destination": "/branding",
+      "permanent": true
+    },
+    {
+      "source": "/cms.php",
+      "destination": "/cms",
+      "permanent": true
+    },
+    {
+      "source": "/cms.php/",
+      "destination": "/cms",
+      "permanent": true
+    },
+    {
+      "source": "/contact.php",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/contact.php/",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/content",
+      "destination": "/content-writing",
+      "permanent": true
+    },
+    {
+      "source": "/content/",
+      "destination": "/content-writing",
+      "permanent": true
+    },
+    {
+      "source": "/content-writing.php",
+      "destination": "/content-writing",
+      "permanent": true
+    },
+    {
+      "source": "/content-writing.php/",
+      "destination": "/content-writing",
+      "permanent": true
+    },
+    {
+      "source": "/content.php",
+      "destination": "/content-writing",
+      "permanent": true
+    },
+    {
+      "source": "/content.php/",
+      "destination": "/content-writing",
+      "permanent": true
+    },
+    {
+      "source": "/creative.php",
+      "destination": "/creative",
+      "permanent": true
+    },
+    {
+      "source": "/creative.php/",
+      "destination": "/creative",
+      "permanent": true
+    },
+    {
+      "source": "/design-and-development.php",
+      "destination": "/design-and-development",
+      "permanent": true
+    },
+    {
+      "source": "/design-and-development.php/",
+      "destination": "/design-and-development",
+      "permanent": true
+    },
+    {
+      "source": "/development.php",
+      "destination": "/development",
+      "permanent": true
+    },
+    {
+      "source": "/development.php/",
+      "destination": "/development",
+      "permanent": true
+    },
+    {
+      "source": "/digital-marketing.php",
+      "destination": "/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/digital-marketing.php/",
+      "destination": "/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/digital-strategy.php",
+      "destination": "/digital-strategy",
+      "permanent": true
+    },
+    {
+      "source": "/digital-strategy.php/",
+      "destination": "/digital-strategy",
+      "permanent": true
+    },
+    {
+      "source": "/ecommerce-websites.php",
+      "destination": "/ecommerce-websites",
+      "permanent": true
+    },
+    {
+      "source": "/ecommerce-websites.php/",
+      "destination": "/ecommerce-websites",
+      "permanent": true
+    },
+    {
+      "source": "/email-marketing.php",
+      "destination": "/email-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/email-marketing.php/",
+      "destination": "/email-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/graphic-design.php",
+      "destination": "/graphic-design",
+      "permanent": true
+    },
+    {
+      "source": "/graphic-design.php/",
+      "destination": "/graphic-design",
+      "permanent": true
+    },
+    {
+      "source": "/index.php",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mobile-app-desig-and-development.php",
+      "destination": "/mobile-app-desig-and-development",
+      "permanent": true
+    },
+    {
+      "source": "/mobile-app-desig-and-development.php/",
+      "destination": "/mobile-app-desig-and-development",
+      "permanent": true
+    },
+    {
+      "source": "/ppc-management.php",
+      "destination": "/ppc-management",
+      "permanent": true
+    },
+    {
+      "source": "/ppc-management.php/",
+      "destination": "/ppc-management",
+      "permanent": true
+    },
+    {
+      "source": "/seo-optimization",
+      "destination": "/seo",
+      "permanent": true
+    },
+    {
+      "source": "/seo-optimization/",
+      "destination": "/seo",
+      "permanent": true
+    },
+    {
+      "source": "/seo-optimization.php",
+      "destination": "/seo",
+      "permanent": true
+    },
+    {
+      "source": "/seo-optimization.php/",
+      "destination": "/seo",
+      "permanent": true
+    },
+    {
+      "source": "/seo.php",
+      "destination": "/seo",
+      "permanent": true
+    },
+    {
+      "source": "/seo.php/",
+      "destination": "/seo",
+      "permanent": true
+    },
+    {
+      "source": "/service-detail",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/service-detail/",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/service-detail.php",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/service-detail.php/",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/services.php",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/services.php/",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/social-media.php",
+      "destination": "/social-media",
+      "permanent": true
+    },
+    {
+      "source": "/social-media.php/",
+      "destination": "/social-media",
+      "permanent": true
+    },
+    {
+      "source": "/videos.php",
+      "destination": "/videos",
+      "permanent": true
+    },
+    {
+      "source": "/videos.php/",
+      "destination": "/videos",
+      "permanent": true
+    },
+    {
+      "source": "/web-design.php",
+      "destination": "/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/web-design.php/",
+      "destination": "/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/website-management.php",
+      "destination": "/website-management",
+      "permanent": true
+    },
+    {
+      "source": "/website-management.php/",
+      "destination": "/website-management",
+      "permanent": true
+    },
+    {
+      "source": "/wordpress-websites.php",
+      "destination": "/wordpress-websites",
+      "permanent": true
+    },
+    {
+      "source": "/wordpress-websites.php/",
+      "destination": "/wordpress-websites",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
